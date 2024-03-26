@@ -8,7 +8,7 @@ Before running the program, ensure you have a C++ compiler installed on your sys
 
 ## Usage
 
-1. Clone this repository to your local machine.
+Clone this repository to your local machine.
 
 Follow the on-screen prompts to input the required parameters such as mouse sensitivity, FOV, aspect ratio, and magnification modifiers.
 
